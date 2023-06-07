@@ -1,3 +1,4 @@
+
 export const missingCountries = [
     { name: 'Singapore', lating: [1.3521, 103.8198] },
     { name: 'BouvetIsland', lating: [54.4208, 3.3464] },
@@ -19,3 +20,4 @@ export const countries= {
 };
 
 export const colorScale=['#E2AEFF','#5E32CA'];
+
